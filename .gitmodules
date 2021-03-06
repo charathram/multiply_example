@@ -1,0 +1,3 @@
+[submodule "extern/MathLib"]
+	path = extern/MathLib
+	url = https://github.com/charathram/MathLib

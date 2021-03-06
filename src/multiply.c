@@ -1,12 +1,5 @@
 #include <stdio.h>
-
-/*
- * A simple function to multiply one integer
- * by another and return an integer result.
- */
-int multiply_by(int operand, int factor) {
-    return operand * factor;
-}
+#include "mathlib.h"
 
 int main() {
     int o = 5;
